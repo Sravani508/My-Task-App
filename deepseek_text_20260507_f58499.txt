@@ -1,0 +1,1 @@
+my-task-app/frontend/next.config.js

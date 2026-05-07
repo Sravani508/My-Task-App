@@ -1,0 +1,26 @@
+my-task-app/
+│
+├── backend/
+│   ├── src/
+│   │   └── server.js
+│   ├── package.json
+│   └── .env
+│
+└── frontend/
+    ├── app/
+    │   ├── layout.js
+    │   ├── page.js
+    │   ├── login/
+    │   │   └── page.js
+    │   ├── register/
+    │   │   └── page.js
+    │   ├── dashboard/
+    │   │   └── page.js
+    │   └── projects/
+    │       └── page.js
+    ├── components/
+    │   └── Header.js
+    ├── lib/
+    │   └── api.js
+    ├── package.json
+    └── next.config.js
